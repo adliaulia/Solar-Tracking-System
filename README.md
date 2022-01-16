@@ -10,3 +10,7 @@ Link video: https://www.youtube.com/watch?v=6wsiYkFikSg
 * Analog to Digital Input
 * PWM Signal
 * Data Logging
+
+## Documentation
+![image](https://user-images.githubusercontent.com/59172520/149669419-7dd3e398-4885-40fa-b368-04b8d0b1e9d9.png)
+
